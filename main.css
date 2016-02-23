@@ -1,0 +1,52 @@
+1 {
+  text-align: center;
+  color: #2d475e;
+}
+p {
+  text-align: center;
+  font-size: 18px
+}
+h2 {
+  font-size: 38px;
+  text-align: center;
+}
+scan {
+  font-size: 50px;
+  font-family: fantasy;
+  background-color:yellow;
+  color: red;
+  text-align: center;
+}
+h3 {
+  font-style: italic;
+  color: #417118;
+}
+img {
+ width: 400px; 
+ padding-left: auto;
+ padding-right: auto;
+}
+div {
+  background-color: #ece1d8;
+  border-style: outset;
+}
+em {
+  font-size: 45px;
+  font-family: Times New Roman;
+}
+scan1 {
+  color: #691313;
+  font-size: 24px;
+}
+scan2 {
+  color: #319a68;
+  font-size: 24px;
+} 
+.inspire {
+  color: #012b00;
+  border: 3px solid brown;
+  border-style: inset;
+}
+a {
+  text-decoration: none;
+}
