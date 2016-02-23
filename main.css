@@ -50,3 +50,8 @@ scan2 {
 a {
   text-decoration: none;
 }
+.gritty button {
+  color: white;
+  background-color: #a1845f;
+  border-radius: 12px;
+}
