@@ -52,6 +52,10 @@ a {
 }
 .gritty button {
   color: white;
-  background-color: #a1845f;
+  background-color: #611a1a;
   border-radius: 12px;
+  font-size: 19px;
+}
+.gritty p {
+  text-align: left;
 }
